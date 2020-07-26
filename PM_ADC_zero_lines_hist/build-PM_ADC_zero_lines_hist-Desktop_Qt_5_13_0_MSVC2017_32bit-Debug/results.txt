@@ -1,0 +1,131 @@
+
+Ch:	1
+T:	ADC0_ZEROLVL
+Value	Counts
+73	763
+74	261
+
+Ch:	1
+T:	ADC1_ZEROLVL
+Value	Counts
+53	429
+54	595
+
+Ch:	2
+T:	ADC0_ZEROLVL
+Value	Counts
+36	345
+37	675
+38	4
+
+Ch:	2
+T:	ADC1_ZEROLVL
+Value	Counts
+87	25
+88	505
+89	489
+90	5
+
+Ch:	3
+T:	ADC0_ZEROLVL
+Value	Counts
+49	183
+50	841
+
+Ch:	3
+T:	ADC1_ZEROLVL
+Value	Counts
+41	204
+42	820
+
+Ch:	4
+T:	ADC0_ZEROLVL
+Value	Counts
+27	639
+28	385
+
+Ch:	4
+T:	ADC1_ZEROLVL
+Value	Counts
+54	336
+55	688
+
+Ch:	5
+T:	ADC0_ZEROLVL
+Value	Counts
+16	1024
+
+Ch:	5
+T:	ADC1_ZEROLVL
+Value	Counts
+5	1024
+
+Ch:	6
+T:	ADC0_ZEROLVL
+Value	Counts
+9	1024
+
+Ch:	6
+T:	ADC1_ZEROLVL
+Value	Counts
+8	1024
+
+Ch:	7
+T:	ADC0_ZEROLVL
+Value	Counts
+26	1024
+
+Ch:	7
+T:	ADC1_ZEROLVL
+Value	Counts
+9	1024
+
+Ch:	8
+T:	ADC0_ZEROLVL
+Value	Counts
+9	1024
+
+Ch:	8
+T:	ADC1_ZEROLVL
+Value	Counts
+8	1024
+
+Ch:	9
+T:	ADC0_ZEROLVL
+Value	Counts
+8	1024
+
+Ch:	9
+T:	ADC1_ZEROLVL
+Value	Counts
+12	1024
+
+Ch:	10
+T:	ADC0_ZEROLVL
+Value	Counts
+43	1024
+
+Ch:	10
+T:	ADC1_ZEROLVL
+Value	Counts
+6	1024
+
+Ch:	11
+T:	ADC0_ZEROLVL
+Value	Counts
+20	1024
+
+Ch:	11
+T:	ADC1_ZEROLVL
+Value	Counts
+6	1024
+
+Ch:	12
+T:	ADC0_ZEROLVL
+Value	Counts
+5	1024
+
+Ch:	12
+T:	ADC1_ZEROLVL
+Value	Counts
+5	1024

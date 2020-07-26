@@ -1,0 +1,4 @@
+/build-*
+*.pro.user*
+Make_deploy.bat
+/PMfastStats_Hist

@@ -1,0 +1,163 @@
+
+Ch:	1
+T:	TDC_RAW
+Value	Counts
+b59	1
+c28	1
+c2a	2
+c2b	2
+c2c	13
+c2d	31
+c2e	76
+c2f	88
+c30	299
+c31	356
+c32	729
+c33	651
+c34	1443
+c35	927
+c36	1419
+c37	438
+c38	808
+c39	504
+c3a	248
+c3b	75
+c3c	15
+c3d	1
+d3a	1
+d3b	16
+d3c	29
+d3d	12
+d3e	6
+d3f	1
+
+
+Ch:	2
+T:	TDC_RAW
+Value	Counts
+56a	1
+b51	1
+b52	4
+b53	4
+b54	7
+b55	35
+b56	92
+b57	93
+b58	248
+b59	436
+b5a	680
+b5b	595
+b5c	1004
+b5d	1069
+b5e	1263
+b5f	671
+b60	841
+b61	522
+b62	367
+b63	153
+b64	63
+b65	30
+b66	12
+b67	1
+
+
+Ch:	3
+T:	TDC_RAW
+Value	Counts
+c26	1
+c27	7
+c28	15
+c29	42
+c2a	114
+c2b	150
+c2c	432
+c2d	558
+c2e	1195
+c2f	953
+c30	1113
+c31	1365
+c32	874
+c33	652
+c34	409
+c35	149
+c36	116
+c37	26
+c38	14
+c39	4
+c3a	2
+c3c	1
+
+
+Ch:	4
+T:	TDC_RAW
+Value	Counts
+c1a	1
+c1b	2
+c1c	11
+c1d	28
+c1e	69
+c1f	120
+c20	418
+c21	517
+c22	1022
+c23	967
+c24	1133
+c25	1219
+c26	959
+c27	805
+c28	459
+c29	274
+c2a	145
+c2b	26
+c2c	13
+c2d	3
+c2f	1
+
+
+Ch:	5
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	6
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	7
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	8
+T:	TDC_RAW
+Value	Counts
+1775	8192
+
+
+Ch:	9
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	10
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	11
+T:	TDC_RAW
+Value	Counts
+0	8192
+
+
+Ch:	12
+T:	TDC_RAW
+Value	Counts
+0	8192
+
